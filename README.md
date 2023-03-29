@@ -2,6 +2,7 @@
 
 My Portfolio
 This is my personal portfolio website built using Next.js and deployed on Vercel. You can view the live site at  -> 
+https://next-js-portfolio-git-main-chinmayjape2-gmailcom.vercel.app
 
 Technologies Used
 Next.js
@@ -19,12 +20,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/Japechinmay/nextJSPortfolio
 Install the dependencies:
 
 bash
 Copy code
-cd my-portfolio
+cd ...
 npm install
 Start the development server:
 
