@@ -1,18 +1,47 @@
-# Tailwind CSS and Next.js Portfolio
 
-This is a template for creating a portfolio with Tailwind CSS and Next.js.
 
-![Portfolio Demo](demo/demo.gif)
+My Portfolio
+This is my personal portfolio website built using Next.js and deployed on Vercel. You can view the live site at  -> 
 
-## How it works
+Technologies Used
+Next.js
+React
+TailwindCSS
+Vercel
+TS
 
-Fork or download the repo and change whatever you need to change for your needs.
+![image](https://user-images.githubusercontent.com/107535441/228424127-94e19f79-14d7-4bcb-bdb5-1b3decd79949.png)
 
-## Running Locally
+Getting Started
+To run this project locally, follow these steps:
 
-Can run the application in VS Code or a terminal and it will be available at `http://localhost:3000`.
+Clone the repository:
 
-```bash
+bash
+Copy code
+git clone https://github.com/your-username/my-portfolio.git
+Install the dependencies:
+
+bash
+Copy code
+cd my-portfolio
 npm install
+Start the development server:
+
+bash
+Copy code
 npm run dev
-```
+Open your web browser and navigate to http://localhost:3000 to view the website.
+
+Deployment
+This website is deployed on Vercel. To deploy your own version of this website on Vercel, follow these steps:
+
+Fork this repository to your own GitHub account.
+Create a new project in Vercel and connect it to your GitHub repository.
+Configure the project settings and environment variables as needed.
+Deploy the project to Vercel.
+Credits
+This website was inspired by https://www.example.com. The images used in this website are from https://unsplash.com/.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
